@@ -1,1 +1,2 @@
-# SnakeEmulatorUsingJS
+# SnakeGame
+A JavaScript project
